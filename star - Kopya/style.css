@@ -10,19 +10,18 @@
   }
   @media only screen and (max-width: 768px) {
     .navbar-collapse {
-        background-color: rgba(31, 84, 62, 0.5);
+      background-color: rgba(31, 84, 62, 0.5);
       color: #fff;
       border-radius: 5%;
     }
   }
   @media only screen and (max-width: 768px) {
      
-    .navbar .shop{
+    .navbar .shop{  /* butonlar */
         margin-bottom: 20px;
-
     }
-    
   }
+  
 
 *{
     font-family: "SoDoSans",sans-serif;
@@ -41,7 +40,6 @@ nav ul li{
     color: #a09c9c;
     font-weight: 400;
     letter-spacing: -.024rem;
-  
  }
 .ikonlar i{
     font-size: 30px;
@@ -51,3 +49,11 @@ nav ul li{
     cursor: pointer;
 }
 
+video{
+  margin-top:80px;
+}
+
+.content{
+  margin-left: 650px;
+}
+  
