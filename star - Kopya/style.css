@@ -1,50 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;600;700;800&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
-
 @media only screen and (max-width: 768px) {
   .content img{
        width: 100%;
        height: auto;
        margin-bottom: 40px;
   }
-/* ********************* */
   .navbar-collapse {
     background-color: #ffffff;
     background-size: cover; 
     background-repeat: no-repeat;
     color: #070707;
     border-radius: 5%;
-    
   }
-/* ********************* */
 nav ul li{
   font-size: 16px;
   font-weight: 900; 
   margin-inline-start:30px;
-  
 }
- /* ************************* */
  video{
   position:fixed;
   top:81px;
  display: none;
   width: 100%;
-  
 }
-     /* ******************** */
 nav .shop{
   margin-bottom: 5px;
 }
-/* ********************* */
   }
-
-
-
-
   body{
     overflow-x: hidden;
   }
-
 *{
     font-family: "SoDoSans",sans-serif;
 }
@@ -53,7 +39,6 @@ nav{
     background-color: #fff;     
     box-shadow: 0 0 30px #777272;      
 }
-
 nav ul li{
     font-size: 16px;
     font-weight: 900; 
@@ -61,12 +46,10 @@ nav ul li{
 .title{
   margin-left:2px ;
 }
-
   .title p{
     color: #a09c9c;
     font-weight: 400;
     letter-spacing: -.024rem;
-  
  }
 .ikonlar i{
     font-size: 30px;
@@ -75,8 +58,6 @@ nav ul li{
     margin: 5px;
     cursor: pointer;
 }
-
-/* ugrastıgım kısım */
 video{
   position:fixed;
   top:81px;
